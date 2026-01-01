@@ -1,0 +1,8 @@
+.{
+    .name = .exetazo,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.14.1",
+    .dependencies = .{},
+    .paths = .{ "." },
+    .fingerprint = 0x57d4b0c40df1ef31,
+}
